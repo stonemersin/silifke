@@ -1,0 +1,55 @@
+.sola-kaydir{
+float:left;
+padding:0 10px 10px 0;
+}
+#kutu2 {
+height:400px;
+width:670px;
+background-color:rgb(67,122,155,0.7);
+margin:20px;
+float:left;
+padding-bottom:30px;
+padding-left: 25px;
+padding-right: 10px;
+box-shadow: 10px 10px 4px rgb(0,0,0,0.4);
+}
+#kutu3 {
+height:400px;
+width:670px;
+background-color:rgb(67,122,155,0.7);
+margin:20px;
+float:left;
+padding-bottom:30px;
+padding-left: 25px;
+padding-right: 10px;
+box-shadow: 10px 10px 4px rgb(0,0,0,0.4);
+}
+#kutu4 {
+height:400px;
+width:670px;
+background-color:rgb(67,122,155,0.7);
+margin:20px;
+float:left;
+padding-bottom:30px;
+padding-left: 25px;
+padding-right: 10px;
+box-shadow: 10px 10px 4px rgb(0,0,0,0.4);
+}
+#kutu5 {
+height:400px;
+width:670px;
+background-color:rgb(67,122,155,0.7);
+margin:20px;
+float:left;
+padding-bottom:30px;
+padding-left: 25px;
+padding-right: 10px;
+box-shadow: 10px 10px 4px rgb(0,0,0,0.4);
+}
+.kutu{
+	height:380px;
+width:650px;
+background-color:rgb(67,122,155,0.7);
+margin-bottom: 20px;
+padding-left: 5px;
+}
